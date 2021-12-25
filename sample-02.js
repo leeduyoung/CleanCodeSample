@@ -11,3 +11,12 @@ function userData(params) {
 function loadUserData(params) {
   // TODO:
 }
+
+// # 2-1.
+// 클래스명은 명사나 명사구가 적합하다.
+
+// WORST CODE - (X)
+// Manager, Processor, Data, Info etc..
+
+// BEST CODE - (O)
+// Customer, WikiPage, Account, AddressParser etc..
